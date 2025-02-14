@@ -7,7 +7,7 @@ pygame.init()
 # Set up the screen
 screen = pygame.display.set_mode((400, 300))
 pygame.display.set_caption('Pygame Example')
-
+z
 # Main loop
 running = True
 clock = pygame.time.Clock()
